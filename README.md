@@ -1,1 +1,2 @@
-# daily-poop-counter
+MY FIRST JAVASCRIPT PROJECT AND IT HAPPENDS TO BE A POO COUNTER 
+http://127.0.0.1:5500/daily-poop-counter/index.html
