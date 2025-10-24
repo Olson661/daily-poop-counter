@@ -1,14 +1,11 @@
 body {
-<<<<<<< HEAD
-    background-image: url(https://cdn.pixabay.com/photo/2017/01/31/14/56/poop-2024794_1280.png);
-    background-size: auto;
-=======
-    background-image: url(http://clipart-library.com/new_gallery/poop-clipart-22.jpg);
-    background-size: cover;
->>>>>>> c74dc60e57f079a3086b94f96d942dc509973c22
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    text-align: center;
+background-image: url(https://cdn.pixabay.com/photo/2017/01/31/14/56/poop-2024794_1280.png);
+ background-size: auto;
+ background-image: url(http://clipart-library.com/new_gallery/poop-clipart-22.jpg);
+ background-size: cover;
+ font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+text-align: center;
 }
 
 h1 {
@@ -20,6 +17,9 @@ h2 {
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
+}
+p {
+    color: lab(52.16% 78.34 51.82);
 }
 
 button {
@@ -38,10 +38,10 @@ button {
 }
 
 #save-btn {
-<<<<<<< HEAD
+
     background: darkred;
 }
-=======
-    background: darkgreen;
-}
->>>>>>> c74dc60e57f079a3086b94f96d942dc509973c22
+
+    
+
+
